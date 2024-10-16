@@ -1,0 +1,8 @@
+<DOCTYPE html>
+<hmtl>
+
+<body>
+
+<button onclick="window.location.href = 'Valorant.html';"> Start Page </button>
+
+</body>
